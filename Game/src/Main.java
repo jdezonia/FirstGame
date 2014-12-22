@@ -5,5 +5,6 @@ public class Main {
 		
 		System.out.println("Hi");
 		System.out.println("Did this work eric?");
+		System.out.println("Yes, and this is the first change.");
 	}
 }
